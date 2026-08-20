@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello from OpenShift changes 5!";
+        return "checking ocp deployment! hahahahahahahahh ";
     }
 }
