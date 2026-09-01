@@ -8,6 +8,6 @@ public class HelloController {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hi , new auto deploy changes are done ";
+        return "added new docker file ";
     }
 }
